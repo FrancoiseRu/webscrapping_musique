@@ -1,5 +1,5 @@
 # webscrapping_musique
-Chanelle Wea et Françoise Ruch
+**Chanelle Wea et Françoise Ruch**
 DIA 3
 
 Les titres musicaux les plus écoutés correspondent-ils aux titres les plus vendus?
